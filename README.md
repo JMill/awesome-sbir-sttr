@@ -312,6 +312,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    - [thegovlab.org](https://thegovlab.org)
    - [thegovlab.org/community](https://thegovlab.org/community.html)
    - [thegovlab.org/project/project-open-data-demand](https://thegovlab.org/project/project-open-data-demand)
+   - [Who's Your Ally? How Tech Startups Navigate Venture Capital and Federal Funding](https://medium.com/@iamjmill/whos-your-ally-e2ff6068cd3a) ([Part 0](https://innovation.mit.edu/blog-post/whos-your-ally_0/), [1](https://innovation.mit.edu/blog-post/whos-your-ally_1/), [2](https://innovation.mit.edu/blog-post/whos-your-ally_2/), [3](https://innovation.mit.edu/blog-post/whos-your-ally_3/), [4](https://innovation.mit.edu/blog-post/whos-your-ally_4/), [5](https://innovation.mit.edu/blog-post/whos-your-ally_5/))
+   - [Friend-o-meter for Dual-Use Ventures](https://airtable.com/shrDxgWIhw02yw9Im/tbltiVURkGgDxLiXp)
    - [thelivinglib.org](https://thelivinglib.org)
    - [American Council for Technology and Industry Advisory Council](https://actiac.org)
    - [Open Knowledge Foundation](https://okfn.org/tools)
